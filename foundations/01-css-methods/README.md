@@ -13,7 +13,7 @@ The properties you need to add to each element are:
 * `button`: an orange background and a font size of 18px
 
 ## Desired Outcome
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-outcome.png).
 
 
 ### Self Check
